@@ -3,7 +3,7 @@ import random
 #really advanced ai powered random number generator that can predict the future and read your mind, 
 #but only for numbers between 1 and 10.
 def fun():
-   return random.randint(1, 10)
+   return random.randint(1, 100)
 
 
 print ("")
